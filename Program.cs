@@ -2,6 +2,9 @@
 {
     internal class Program
     {
+        // Juan Hernandez
+        // Guided Assignment: Fields and Properties
+        // 01/15/2024
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
